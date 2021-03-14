@@ -6,6 +6,8 @@ Within the scheduler, we needed to be able to use local storage to save the user
 
 The scheduler also needed to change color depending on what time of day it was. This code was provided in the .css file.
 
+I used past lessons and looked up similar projects on the internet to help me determine what I needed to accomplish this assignment.
+
 ![Getting Started](./Assets/ScreenShot.png)
 
 
